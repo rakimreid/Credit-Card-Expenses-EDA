@@ -1,4 +1,4 @@
-# 2022 Credit Card Expenses Exploratory Data Analysis 
+# Credit Card Expenses Exploratory Data Analysis 
 
 ![image](https://user-images.githubusercontent.com/23224784/229172704-b2b0e6e9-c5c4-4224-9fc1-30ca4ca2747a.png)
 
